@@ -33,7 +33,7 @@ with col2:
 '------------------------'
 col1, col2 = st.columns([1 , 2])
 with col1:
-    st.image('XL.jpg')
+    st.image('xlxlxl.jpg')
 with col2:
     st.image('XLxl.jpg')
 '------------'
